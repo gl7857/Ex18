@@ -7,6 +7,7 @@ public class Vehicle {
     public void stop() {
         System.out.println("The vehicle has stopped");
     }
+
     public void start() {
         System.out.println("The vehicle is starting");
     }
