@@ -8,7 +8,6 @@ public class Vehicle {
         System.out.println("The vehicle has stopped");
     }
 
-
     public void start() {
         System.out.println("The vehicle is starting");
     }
