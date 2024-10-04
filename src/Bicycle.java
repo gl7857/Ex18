@@ -1,4 +1,5 @@
 public class Bicycle extends Vehicle {
+
     @Override
     public void accelerate() {
         System.out.println("at a moderate pace");
